@@ -1,0 +1,31 @@
+.aboutMe {
+    background-image: url('C:\Users\Andy\Desktop\Web_Dev\Projects\Portfolio\assets');
+}
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+#card-grid {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+textarea {
+    max-height: 30px;
+}
+form {
+    max-height: 30px;
+}
+footer {
+    height: 120px;
+    width: 150%;
+    margin-left: -200px;
+}
